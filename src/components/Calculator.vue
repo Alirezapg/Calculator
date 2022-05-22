@@ -123,5 +123,11 @@ export default {
 };
 </script>
 <style>
-
+.digit {
+  background-color: rgb(65, 219, 18);
+  border: 1px solid rgb(0, 0, 0);
+}
+button {
+  width: 100%;
+}
 </style> 
